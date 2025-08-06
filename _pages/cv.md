@@ -12,7 +12,6 @@ redirect_from:
 Contact
 ======
 * **Alexandra Perkins**  
-* (720) 530 3144  
 * alexandraperkins@berkeley.edu  
 
 Education
