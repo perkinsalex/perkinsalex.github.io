@@ -26,7 +26,7 @@ Research Experience
 ======
 * **Fisher Center for Real Estate and Urban Economics, Berkeley Haas**  
   * Predoc, November 2024 – Present  
-  * Research assistance and Python-based data analysis for projects on California wildfire insurance markets, etc.
+  * Research assistance and Python-based data analysis for projects on California wildfire insurance markets
 
 * **Kairos Aerospace**  
   * Research Data Analyst, May 2021 – November 2024  
