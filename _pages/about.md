@@ -16,4 +16,4 @@ I am a voracious reader, especially of American history — recent favorites inc
 
 ## Contact
 
-Feel free to reach out at [alexandraperkins@berkeley.edu](mailto:alexandraperkins@berkeley.edu).
+reach out at [alexandraperkins@berkeley.edu](mailto:alexandraperkins@berkeley.edu).
