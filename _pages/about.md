@@ -12,7 +12,7 @@ I am a first-year Master of Public Policy student at the [Goldman School of Publ
 
 Before graduate school, I worked at the [Fisher Center for Real Estate and Urban Economics](https://haas.berkeley.edu/real-estate/) on projects examining the effects of wildfires on home prices, analyzing uptake of the [California FAIR Plan](https://haas.berkeley.edu/wp-content/uploads/Brookings__California_FAIR_Plan-11.pdf), and connecting national mortgage financing data with loan performance data.
 
-I am a voracious reader, especially of American history — recent favorites include *The Metaphysical Club* by Louis Menand, *Malcolm X: A Life of Reinvention* by Manning Marable, and *Prairie Fires: The American Dreams of Laura Ingalls Wilder* by Caroline Fraser.
+I am a voracious reader, especially of American history. Recent favorites include *The Metaphysical Club* by Louis Menand, *Malcolm X: A Life of Reinvention* by Manning Marable, *Quetzalcoatl and Guadalupe* by Jacques Lafaye, and *Prairie Fires: The American Dreams of Laura Ingalls Wilder* by Caroline Fraser.
 
 ## Contact
 
