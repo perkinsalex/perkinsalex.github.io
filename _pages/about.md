@@ -1,22 +1,19 @@
 ---
 permalink: /
-title: "Alexandra Perkins is thinking thoughts"
+title: "About"
+excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hey! Welcome to my website. I am a predoc at UC Berkeley's [Fisher Center for Real Estate and Urban Economics](https://haas.berkeley.edu/realestate/) interested in housing policy, the insurance industry, and geospatial analysis. 
+I am a first-year Master of Public Policy student at the [Goldman School of Public Policy](https://gspp.berkeley.edu/) and a Graduate Research Fellow at the [California Policy Lab](https://www.capolicylab.org/). I am interested in California's social safety net, especially disaster risk, household mobility, and the factors that compel people to relocate.
 
-Areas of Interest
-======
-My research interests are centered on the spatial distribution of despair, especially in the United States. I am particularly keen on studying the political and social implications of rising insurance costs in disaster-prone areas. I became interested in real estate specifically while writing my senior honors thesis at Berkeley, on historic preservation regulations, CEQA, and housing construction in the Bay Area. 
+Before graduate school, I worked at the [Fisher Center for Real Estate and Urban Economics](https://haas.berkeley.edu/real-estate/fisher-center/) on projects examining the effects of wildfires on home prices, analyzing uptake of the [California FAIR Plan](https://haas.berkeley.edu/wp-content/uploads/Brookings__California_FAIR_Plan-11.pdf), and connecting national mortgage financing data with loan performance data.
 
-Research Experience
-======
-For a full accounting, check out my CV. 
+I am a voracious reader, especially of American history — recent favorites include *The Metaphysical Club* by Louis Menand, *Malcolm X: A Life of Reinvention* by Manning Marable, and *Prairie Fires: The American Dreams of Laura Ingalls Wilder* by Caroline Fraser.
 
-Personal Interests
-------
+## Contact
 
+Feel free to reach out at [alexandraperkins@berkeley.edu](mailto:alexandraperkins@berkeley.edu).
