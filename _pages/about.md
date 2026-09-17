@@ -16,4 +16,4 @@ I am a voracious reader, especially of American history. Recent favorites includ
 
 ## Contact
 
-reach out at [alexandraperkins@berkeley.edu](mailto:alexandraperkins@berkeley.edu).
+Send book recommendations and complaints to [alexandraperkins@berkeley.edu](mailto:alexandraperkins@berkeley.edu).
