@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Master of Public Policy student at the [Goldman School of Public Policy](https://gspp.berkeley.edu/) and a Graduate Research Fellow at the [California Policy Lab](https://www.capolicylab.org/). I am interested in California's social safety net, especially disaster risk, mobility, and affordability. 
+I am a first-year Master of Public Policy student at the [Goldman School of Public Policy](https://gspp.berkeley.edu/) and a Graduate Research Fellow at the [California Policy Lab](https://www.capolicylab.org/). I am interested in California's social safety net, especially disaster risk, social mobility, and household finance. 
 
 Before graduate school, I worked at the [Fisher Center for Real Estate and Urban Economics](https://haas.berkeley.edu/real-estate/) on projects examining the effects of wildfires on home prices, analyzing the uptake of the [California FAIR Plan](https://haas.berkeley.edu/wp-content/uploads/Brookings__California_FAIR_Plan-11.pdf), and linking national mortgage financing data to loan performance data.
 
